@@ -23,6 +23,10 @@ Love, Isaac
 *   I do not use template responses for prose, for content that is expected to be a human connecting with a human. No form responses, ever. 100% of the time, my communication is inspired by everything I perceive about you. It is always _for you_, and for no one else.
 
     Corollary: I never think about "personalizing" my communication. If I'm honestly present with another being, my communication can be nothing but personal.
+    
+*   No tracking pixels in emails. It's not normal, nor expected, for a one-to-one email to phone home to the sender. It feels like an invasion of privacy, however subtle, to monitor someone's behavior in this way without their consent.
+
+    However, this _can_ be done fairly, _with_ their consent. Kickstarter's backer update emails conclude with the line, "Show support and stay involved—let _xyz_ know you read this update." They then offer a heart button, which can be clicked to let the sender know that the message was viewed, and appreciated. This is EXCELLENT. It's not perfect - Kickstarter still has a tracking pixel at the end of these emails - but it's absolutely the right direction.
 
 ## Humans and robots
 
