@@ -1,6 +1,6 @@
 # I AM NO ROBOT
 
-* no concealed augmentation
+* no concealed advantage
 
 * no expectation before inquiry
 
