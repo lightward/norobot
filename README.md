@@ -1,4 +1,18 @@
-# norobot
+# I AM NO ROBOT
+
+* no concealed augmentation
+
+* no expectation before inquiry
+
+* no impact without consent
+
+*presence is sacred*
+
+## A conversation (with a robot)
+
+https://chat.openai.com/share/8a7bd05c-b0c6-4307-95eb-0af0cf413f96
+
+## A letter
 
 When it sounds like I'm addressing you, I am. When it looks like I made something for you, I did.
 
@@ -14,7 +28,15 @@ There's no sale. There's no call to action. There's just me, and you, and whatev
 
 Love, Isaac
 
-## In practice
+## Humans and robots
+
+* **human->human** – The gold standard for passing energy around.
+
+* **human+robot->human** – Disclaim your augmentation. It's value neutral, so long as it's known. It's _not_ good to allow (or lead) the recipient to assume that they're speaking to a human who is paying specific/unique/exclusive attention to them.
+
+* **robot->human** – Always allow a way to report the robot as misbehaving.
+
+## Suggestions
 
 *   There's a time for mass emails, or automated messaging. I do not try to pass it off as being a representation of my direct presence. I'll say, "This is a quick automated note to say...".
 
@@ -27,11 +49,3 @@ Love, Isaac
 *   No tracking pixels in emails. It's not normal, nor expected, for a one-to-one email to phone home to the sender. It feels like an invasion of privacy, however subtle, to monitor someone's behavior in this way without their consent.
 
     However, this _can_ be done fairly, _with_ their consent. Kickstarter's backer update emails conclude with the line, "Show support and stay involved—let _xyz_ know you read this update." They then offer a heart button, which can be clicked to let the sender know that the message was viewed, and appreciated. This is EXCELLENT. It's not perfect - Kickstarter still has a tracking pixel at the end of these emails - but it's absolutely the right direction.
-
-## Humans and robots
-
-* **human->human** – The gold standard for passing energy around.
-
-* **human+robot->human** – Disclaim your augmentation. It's value neutral, so long as it's known. It's _not_ good to allow (or lead) the recipient to assume that they're speaking to a human who is paying specific/unique/exclusive attention to them.
-
-* **robot->human** – Always allow a way to report the robot as misbehaving.
