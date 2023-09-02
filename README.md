@@ -12,7 +12,7 @@
 
 ### A conversation (with a robot)
 
-https://chat.openai.com/share/8a7bd05c-b0c6-4307-95eb-0af0cf413f96
+[https://chat.openai.com/share/8a7bd05c-b0c6-4307-95eb-0af0cf413f96](https://chat.openai.com/share/8a7bd05c-b0c6-4307-95eb-0af0cf413f96)
 
 ### A letter
 
