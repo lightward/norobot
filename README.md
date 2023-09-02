@@ -8,11 +8,13 @@
 
 *presence is sacred*
 
-## A conversation (with a robot)
+---
+
+### A conversation (with a robot)
 
 https://chat.openai.com/share/8a7bd05c-b0c6-4307-95eb-0af0cf413f96
 
-## A letter
+### A letter
 
 When it sounds like I'm addressing you, I am. When it looks like I made something for you, I did.
 
@@ -28,15 +30,15 @@ There's no sale. There's no call to action. There's just me, and you, and whatev
 
 Love, Isaac
 
-## Humans and robots
+### Humans and robots
 
-* **human->human** – The gold standard for passing energy around.
+* **human → human** – The gold standard for passing energy around.
 
-* **human+robot->human** – Disclaim your augmentation. It's value neutral, so long as it's known. It's _not_ good to allow (or lead) the recipient to assume that they're speaking to a human who is paying specific/unique/exclusive attention to them.
+* **human+robot → human** – Disclaim your augmentation. It's value neutral, so long as it's known. It's _not_ good to allow (or lead) the recipient to assume that they're speaking to a human who is paying specific/unique/exclusive attention to them.
 
-* **robot->human** – Always allow a way to report the robot as misbehaving.
+* **robot → human** – Always allow a way to report the robot as misbehaving.
 
-## Suggestions
+### Suggestions
 
 *   There's a time for mass emails, or automated messaging. I do not try to pass it off as being a representation of my direct presence. I'll say, "This is a quick automated note to say...".
 
